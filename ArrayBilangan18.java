@@ -1,4 +1,4 @@
-public class ArrayBilangan19 {
+public class ArrayBilangan18 {
     
     public static void main(String[] args) {
 
