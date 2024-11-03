@@ -24,7 +24,7 @@ public class ArrayRataNilai18 {
             }
             
         }
-        double rataLulus = jumlahLulus > 0 totalLulus / jumlahLulus : 0;
+        double rataLulus = jumlahLulus > 0 ? totalLulus / jumlahLulus : 0;
         double rataTidakLulus = jumlahTidakLulus > 0 ? totalTidakLulus / jumlahTidakLulus : 0;
 
         System.out.println("Rata-rata nilai lulus = " + rataLulus);
